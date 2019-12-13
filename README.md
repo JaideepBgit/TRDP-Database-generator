@@ -22,3 +22,4 @@ This repository contains functions developed in Matlab for generating an spheric
 - [Jaideep Bommidi](https://github.com/JaideepBgit)
 - [Rupayan Mallick](https://github.com/rupayan-mallick)
 - [David Eduardo Moreno Villamarin](https://github.com/ujemd/)
+- Pablo Carballeira
