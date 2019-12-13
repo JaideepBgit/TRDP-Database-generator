@@ -4,4 +4,4 @@ Spherical/Omnidirectional Images creation of various distortion and labelling.
 Kindly download the required VOC dataset and VOCDevKit to generate the dataset.
 
 
-[PanoBasic](https://drive.google.com/drive/folders/1X2AB3FmeSr3eSPeiLO4CSWP-1iOdJKHd?usp=sharing)
+Kindly download the PanoBasic Code in the link here:[PanoBasic](https://drive.google.com/drive/folders/1X2AB3FmeSr3eSPeiLO4CSWP-1iOdJKHd?usp=sharing), and save it in the folder where img2pano_distortion, else add path of this folder in the test_Im2Sphere_VOC.m matlab code.
