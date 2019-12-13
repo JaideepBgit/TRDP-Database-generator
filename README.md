@@ -2,7 +2,7 @@
 
 This repository contains functions developed in Matlab for generating an spherical image dataset in the Pascal VOC format. This project was developed for the [IPCV](http://ipcv.eu/) Tutored Research and Development Project titled "Object Detection in Wide-Angle/Immersive Image Formats". The goal of this dataset is to contain objects with multiple levels of distortion with annotations for object detection.
 
-![arch](/img/dataset-pipeline.png.png "Pipeline")
+![arch](/img/dataset-pipeline.png "Pipeline")
 
 ![example](/img/2007_000033.jpg "Example")
 
