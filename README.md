@@ -9,7 +9,8 @@ This repository contains functions developed in Matlab for generating an spheric
 ## Prerequisites
 
 - VOC dataset and VOCDevKit.
-- [PanoBasic](https://drive.google.com/drive/folders/1X2AB3FmeSr3eSPeiLO4CSWP-1iOdJKHd?usp=sharing) software from Zhang, Yinda, et al. "Panocontext: A whole-room 3d context model for panoramic scene understanding." European conference on computer vision. Springer, Cham, 2014. Kindly save it in the folder where img2pano_distortion, else add path of this folder in the test_Im2Sphere_VOC.m matlab script.
+- [PanoBasic](https://drive.google.com/drive/folders/1X2AB3FmeSr3eSPeiLO4CSWP-1iOdJKHd?usp=sharing) software from Zhang, Yinda, et al. "Panocontext: A whole-room 3d context model for panoramic scene understanding." European conference on computer vision. Springer, Cham, 2014.
+- Kindly save the PanoBasic code in the folder where img2pano_distortion, else add path of this folder in the test_Im2Sphere_VOC.m matlab script.
 
 ## Running the code
 1. Kindly store the background images in the required path of the VOC dataset. (Create a file in VOC dataset and save it accordingly.)(Sample background images are given)(Format: jpg and Size: 1500x3000)
