@@ -1,0 +1,3 @@
+Evaluating detections
+VOC07 metric? Yes
+devkit_path= /home/pcl/img2pano_distortion/results_loop/dist/VOCdevkit , year =  2007

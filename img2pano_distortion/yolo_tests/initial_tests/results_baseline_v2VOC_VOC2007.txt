@@ -1,0 +1,59 @@
+Total BFLOPS 29.371 
+
+ seen 32 
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000001.jpg: Predicted in 6554.046000 milli-seconds.
+person: 92%	(left_x:    8   top_y:   21   width:  342   height:  468)
+dog: 28%	(left_x:   56   top_y:  263   width:  126   height:  112)
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000002.jpg: Predicted in 6759.533000 milli-seconds.
+train: 85%	(left_x:  146   top_y:  185   width:   63   height:  113)
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000003.jpg: Predicted in 6746.579000 milli-seconds.
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000004.jpg: Predicted in 7016.522000 milli-seconds.
+car: 80%	(left_x:   18   top_y:  317   width:   71   height:   44)
+car: 48%	(left_x:   85   top_y:  322   width:   33   height:   26)
+car: 54%	(left_x:  112   top_y:  326   width:   40   height:   26)
+car: 78%	(left_x:  137   top_y:  326   width:   48   height:   29)
+car: 76%	(left_x:  174   top_y:  329   width:   72   height:   33)
+car: 85%	(left_x:  226   top_y:  326   width:  111   height:   49)
+car: 88%	(left_x:  362   top_y:  325   width:  136   height:   65)
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000006.jpg: Predicted in 6802.557000 milli-seconds.
+chair: 44%	(left_x:  128   top_y:  202   width:  104   height:  159)
+diningtable: 84%	(left_x:  145   top_y:  219   width:  208   height:  147)
+chair: 52%	(left_x:  238   top_y:  200   width:  114   height:  160)
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000008.jpg: Predicted in 6671.140000 milli-seconds.
+chair: 87%	(left_x:  196   top_y:   21   width:  154   height:  221)
+sofa: 46%	(left_x:  443   top_y:  227   width:   61   height:  144)
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000010.jpg: Predicted in 6465.454000 milli-seconds.
+horse: 86%	(left_x:  103   top_y:  112   width:  151   height:  314)
+person: 79%	(left_x:  145   top_y:   73   width:  112   height:  200)
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000011.jpg: Predicted in 6797.116000 milli-seconds.
+cat: 73%	(left_x:  123   top_y:   78   width:  199   height:  222)
+cat: 44%	(left_x:  129   top_y:   57   width:  100   height:  101)
+dog: 26%	(left_x:  154   top_y:  141   width:  179   height:  170)
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000013.jpg: Predicted in 6585.867000 milli-seconds.
+cow: 85%	(left_x:  298   top_y:  159   width:  135   height:   93)
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000014.jpg: Predicted in 6869.475000 milli-seconds.
+bus: 63%	(left_x:   57   top_y:  153   width:  162   height:   84)
+car: 83%	(left_x:  178   top_y:  186   width:  327   height:  128)
+person: 34%	(left_x:  349   top_y:   11   width:   48   height:   63)
+car: 55%	(left_x:  393   top_y:  180   width:  108   height:   64)
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000015.jpg: Predicted in 6693.886000 milli-seconds.
+bicycle: 95%	(left_x:   77   top_y:  127   width:  270   height:  227)
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000018.jpg: Predicted in 6801.061000 milli-seconds.
+dog: 86%	(left_x:   58   top_y:   40   width:  309   height:  246)
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000022.jpg: Predicted in 6820.583000 milli-seconds.
+horse: 94%	(left_x:   76   top_y:  101   width:  287   height:  188)
+person: 92%	(left_x:  182   top_y:   39   width:   77   height:  200)
+Enter Image Path: /home/pcl/darknet_AlexeyAB/build/darknet/x64/data/voc/VOCdevkit/VOC2007/JPEGImages/000025.jpg: Predicted in 6770.815000 milli-seconds.
+dog: 62%	(left_x:    5   top_y:   85   width:   55   height:  160)
+horse: 28%	(left_x:   49   top_y:  181   width:  372   height:  199)
+dog: 51%	(left_x:   52   top_y:  165   width:  321   height:  221)
+dog: 31%	(left_x:   54   top_y:   50   width:   87   height:  110)
+person: 51%	(left_x:   73   top_y:   31   width:  113   height:  129)
+dog: 55%	(left_x:  121   top_y:  122   width:  100   height:   84)
+person: 70%	(left_x:  128   top_y:   11   width:   96   height:  133)
+person: 43%	(left_x:  193   top_y:    1   width:   40   height:   84)
+person: 72%	(left_x:  216   top_y:   -6   width:  127   height:  323)
+person: 36%	(left_x:  282   top_y:    5   width:   38   height:   69)
+person: 90%	(left_x:  320   top_y:   12   width:  174   height:  349)
+person: 52%	(left_x:  336   top_y:   -1   width:   38   height:   89)
+Enter Image Path: 

@@ -1,0 +1,5 @@
+classes = 20
+train  = /home/vpu/img2pano_distortion/results_Yshift/train.txt
+valid  = /home/vpu/img2pano_distortion/results_Yshift/VOC2007/dist_-0.05/2007_test.txt
+names = /home/vpu/img2pano_distortion/yolo_tests/train_voc/voc.names
+backup = /home/vpu/img2pano_distortion/yolo_tests/train_voc/backup_Yshift

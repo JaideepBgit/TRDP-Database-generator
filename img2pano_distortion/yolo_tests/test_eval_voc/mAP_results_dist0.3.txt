@@ -1,0 +1,73 @@
+Evaluating detections
+VOC07 metric? Yes
+devkit_path= /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit , year =  2007
+AP for aeroplane = 0.4278
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for bicycle = 0.5165
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for bird = 0.4198
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for boat = 0.1594
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for bottle = 0.1566
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for bus = 0.4681
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for car = 0.4841
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for cat = 0.7052
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for chair = 0.0941
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for cow = 0.5684
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for diningtable = 0.4263
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for dog = 0.6324
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for horse = 0.6150
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for motorbike = 0.5427
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for person = 0.4723
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for pottedplant = 0.1946
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for sheep = 0.4945
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for sofa = 0.2645
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for train = 0.4408
+!!! cachefile =  /home/pcl/img2pano_distortion/results_loop/dist0.3/VOCdevkit/annotations_cache/annots.pkl
+AP for tvmonitor = 0.4006
+Mean AP = 0.4242
+~~~~~~~~
+Results:
+0.428
+0.517
+0.420
+0.159
+0.157
+0.468
+0.484
+0.705
+0.094
+0.568
+0.426
+0.632
+0.615
+0.543
+0.472
+0.195
+0.494
+0.264
+0.441
+0.401
+0.424
+~~~~~~~~
+
+--------------------------------------------------------------
+Results computed with the **unofficial** Python eval code.
+Results should be very close to the official MATLAB eval code.
+-- Thanks, The Management
+--------------------------------------------------------------

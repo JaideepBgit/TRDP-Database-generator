@@ -1,0 +1,7 @@
+classes= 20
+train  = data/train_voc.txt
+valid  = /home/pcl/img2pano_distortion/results_loop/dist0.1/2007_test.txt
+difficult = /home/pcl/img2pano_distortion/results_loop/dist0.1/difficult_2007_test.txt
+names = data/voc.names
+backup = backup/
+
